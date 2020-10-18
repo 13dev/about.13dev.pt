@@ -7,7 +7,7 @@
 
 
 body {
-	background: url(back.jpg) no-repeat calc(50% - 25px) center;   
+	background: url(back.jpg) no-repeat center center;   
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
