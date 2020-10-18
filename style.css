@@ -7,12 +7,12 @@
 
 
 body {
-	background: url(back.jpg) no-repeat center center;   
+	background: url(back.jpg) no-repeat center center fixed;
+	    background-size: auto;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover!important;
-	
+	background-size: cover;
 	
 }
 a , .link , a:hover, a:focus{
