@@ -7,13 +7,14 @@
 
 
 body {
-	background: url(back.jpg) no-repeat center center fixed;
-	    background-size: auto;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-position: top;
+	
+    background: url(back.jpg) no-repeat fixed;
+    background-size: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: left;
 	
 }
 a , .link , a:hover, a:focus{
